@@ -1,0 +1,50 @@
+block number:0
+miner id:0
+prevhash:*
+nonce:0
+hash:e6c9e534c5050f52daafa7e6c084d69fcb2be03ffc69c6c15b12bf822b31aefd
+block number:1
+miner id:0
+prevhash:e6c9e534c5050f52daafa7e6c084d69fcb2be03ffc69c6c15b12bf822b31aefd
+nonce:0
+hash:80c168d0c657d3ca61acb46a85116746a06e2b24637940f22cd87c32d7cd4401
+block number:2
+miner id:2
+prevhash:80c168d0c657d3ca61acb46a85116746a06e2b24637940f22cd87c32d7cd4401
+nonce:0
+hash:0d4f2c84d439081c10de92c0de6a2525557b3aaf57cde37d5e3d8b8a3a4d8500
+block number:3
+miner id:0
+prevhash:0d4f2c84d439081c10de92c0de6a2525557b3aaf57cde37d5e3d8b8a3a4d8500
+nonce:0
+hash:5d6610fd3a757ff17fa4c83b20d9faccf1932a4500ce917f74f5d677e4bbf0b7
+block number:4
+miner id:0
+prevhash:5d6610fd3a757ff17fa4c83b20d9faccf1932a4500ce917f74f5d677e4bbf0b7
+nonce:0
+hash:774c587e748ebe7bee81a0413a258e64cc71c43ae4a9c873b514e48e68b5b77e
+block number:5
+miner id:0
+prevhash:774c587e748ebe7bee81a0413a258e64cc71c43ae4a9c873b514e48e68b5b77e
+nonce:0
+hash:980e88ecec13529e9ebd0dfbf835841bf7edf267de4ae150d75e7cb8b74091a0
+block number:6
+miner id:8
+prevhash:980e88ecec13529e9ebd0dfbf835841bf7edf267de4ae150d75e7cb8b74091a0
+nonce:5
+hash:b5a63205e92ec653ddec002aed19011b04fec18cb4cdf82993735426144eb21c
+block number:7
+miner id:7
+prevhash:b5a63205e92ec654ddec002aed19011b04fec18cb4cdf82993735426144eb21c
+nonce:0
+hash:26c6a19e611b2fb21aa6244794a605e26ffcb94ce9c088c86521afce7201c03b
+block number:8
+miner id:2
+prevhash:26c6a19e611b2fb21aa6244794a605e26ffcb94ce9c088c86521afce7201c03b
+nonce:0
+hash:e82dad7b259a3a10a9b54f6177bacf422731936f51c47d51b77e532d6246512c
+block number:9
+miner id:0
+prevhash:e82dad7b259a3a10a9b54f6177bacf422731936f51c47d51b77e532d6246512c
+nonce:0
+hash:81435fa8df24abaf635d6832b50354680945359810847afa3462e8d5bc10a351
